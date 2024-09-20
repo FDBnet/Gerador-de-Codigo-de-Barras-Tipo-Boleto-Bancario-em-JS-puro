@@ -17,7 +17,7 @@ Este projeto implementa um gerador de código de barras para boletos bancários 
 2. Inclua o script em seu projeto HTML:
 
 ```html
-<script src="caminho/para/gerador-codigo-barras.js"></script>
+<script src="caminho/para/gerador.js"></script>
 ```
 
 ## Uso
